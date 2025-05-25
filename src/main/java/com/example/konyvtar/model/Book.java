@@ -9,5 +9,5 @@ public class Book {
     private String title;
     private String isbn;
     private int publicationYear;
-    private List<String> genres; // Collection típus
+    private List<String> genres; 
 }
