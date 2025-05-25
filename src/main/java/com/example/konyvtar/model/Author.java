@@ -9,5 +9,5 @@ public class Author {
     private String name;
     private String nationality;
     private int birthYear;
-    private List<Book> books; // Egy-Több kapcsolat
+    private List<Book> books;
 }
